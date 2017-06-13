@@ -1,0 +1,108 @@
+{
+  "mods": [
+    {
+      "name": "base",
+      "enabled": true
+    },
+    {
+      "name": "200 Inventory Size",
+      "enabled": true
+    },
+    {
+      "name": "auto-research",
+      "enabled": true
+    },
+    {
+      "name": "Big_Brother",
+      "enabled": true
+    },
+    {
+      "name": "Bottleneck",
+      "enabled": true
+    },
+    {
+      "name": "clock",
+      "enabled": true
+    },
+    {
+      "name": "Crafting_Speed_Research",
+      "enabled": true
+    },
+    {
+      "name": "EndlessResourcesWithFullYield",
+      "enabled": true
+    },
+    {
+      "name": "EvoGUI",
+      "enabled": true
+    },
+    {
+      "name": "FARL",
+      "enabled": true
+    },
+    {
+      "name": "helmod",
+      "enabled": true
+    },
+    {
+      "name": "ItemCount",
+      "enabled": true
+    },
+    {
+      "name": "Larger stack Size",
+      "enabled": true
+    },
+    {
+      "name": "LightedPolesPlus",
+      "enabled": true
+    },
+    {
+      "name": "long-reach",
+      "enabled": true
+    },
+    {
+      "name": "Orbital Ion Cannon",
+      "enabled": true
+    },
+    {
+      "name": "ore-eraser",
+      "enabled": true
+    },
+    {
+      "name": "Power Armor MK3",
+      "enabled": true
+    },
+    {
+      "name": "recursive-blueprints",
+      "enabled": true
+    },
+    {
+      "name": "rso-mod",
+      "enabled": true
+    },
+    {
+      "name": "Squeak Through",
+      "enabled": true
+    },
+    {
+      "name": "Teleportation",
+      "enabled": true
+    },
+    {
+      "name": "TheFatController",
+      "enabled": true
+    },
+    {
+      "name": "TimeTools",
+      "enabled": true
+    },
+    {
+      "name": "upgrade-planner",
+      "enabled": true
+    },
+    {
+      "name": "WaterWell",
+      "enabled": true
+    }
+  ]
+}

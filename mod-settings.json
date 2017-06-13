@@ -1,0 +1,206 @@
+{
+  "startup": {
+    "ion-cannon-radius": {
+      "value": 25
+    },
+    "ion-cannon-heatup-multiplier": {
+      "value": 2
+    },
+    "ion-cannon-laser-damage": {
+      "value": 2500
+    },
+    "ion-cannon-explosion-damage": {
+      "value": 1000
+    },
+    "ion-cannon-flames": {
+      "value": true
+    },
+    "ion-cannon-bob-updates": {
+      "value": true
+    },
+    "Teleportation-telelogistics-enabled": {
+      "value": false
+    },
+    "rso-vanilla-biter-generation": {
+      "value": false
+    }
+  },
+  "runtime-global": {
+    "bottleneck-signals-per-tick": {
+      "value": 40
+    },
+    "bottleneck-show-running-as": {
+      "value": "green"
+    },
+    "bottleneck-show-stopped-as": {
+      "value": "red"
+    },
+    "bottleneck-show-full-as": {
+      "value": "yellow"
+    },
+    "ion-cannon-auto-targeting": {
+      "value": true
+    },
+    "ion-cannon-target-worms": {
+      "value": true
+    },
+    "ion-cannon-auto-target-visible": {
+      "value": true
+    },
+    "ion-cannon-cooldown-seconds": {
+      "value": 300
+    },
+    "Teleportation-all-beacons-for-all": {
+      "value": false
+    },
+    "helmod_debug": {
+      "value": "none"
+    },
+    "helmod_debug_filter": {
+      "value": "all"
+    },
+    "helmod_format_number_element": {
+      "value": "0.0"
+    },
+    "helmod_format_number_factory": {
+      "value": "0"
+    },
+    "helmod_display_all_sheet": {
+      "value": false
+    },
+    "helmod_display_real_name": {
+      "value": false
+    },
+    "helmod_display_data_col_index": {
+      "value": false
+    },
+    "helmod_display_data_col_id": {
+      "value": false
+    },
+    "helmod_display_data_col_name": {
+      "value": false
+    },
+    "helmod_model_filter_factory": {
+      "value": true
+    },
+    "helmod_model_filter_beacon": {
+      "value": true
+    },
+    "helmod_model_filter_factory_module": {
+      "value": true
+    },
+    "helmod_model_filter_beacon_module": {
+      "value": true
+    },
+    "helmod_model_filter_generator": {
+      "value": true
+    },
+    "helmod_properties_tab": {
+      "value": false
+    },
+    "long-reach-build-distance": {
+      "value": 125
+    },
+    "long-reach-reach-distance": {
+      "value": 125
+    },
+    "rso-region-size": {
+      "value": 7
+    },
+    "rso-starting-richness-mult": {
+      "value": 1
+    },
+    "rso-resource-chance": {
+      "value": 0.5
+    },
+    "rso-global-richness-mult": {
+      "value": 1
+    },
+    "rso-global-size-mult": {
+      "value": 1
+    },
+    "rso-biter-generation": {
+      "value": true
+    },
+    "rso-enemy-chance": {
+      "value": 0.25
+    },
+    "rso-enemy-base-size": {
+      "value": 1
+    },
+    "rso-distance-exponent": {
+      "value": 1.1
+    },
+    "rso-fluid-distance-exponent": {
+      "value": 0.6
+    },
+    "rso-size-exponent": {
+      "value": 0.2
+    },
+    "rso-use-donuts": {
+      "value": false
+    },
+    "rso-remove-trees": {
+      "value": false
+    },
+    "rso-infinite-ores-in-start-area": {
+      "value": false
+    },
+    "rso-infinite-ore-threshold": {
+      "value": 0.7
+    },
+    "rso-reveal-spawned-resources": {
+      "value": false
+    }
+  },
+  "runtime-per-user": {
+    "ion-cannon-play-voices": {
+      "value": true
+    },
+    "ion-cannon-voice-style": {
+      "value": "CommandAndConquer"
+    },
+    "ion-cannon-play-klaxon": {
+      "value": true
+    },
+    "ion-cannon-ready-ticks": {
+      "value": 300
+    },
+    "ion-cannon-verbose-print": {
+      "value": false
+    },
+    "Teleportation-page-size": {
+      "value": 20
+    },
+    "Teleportation-straight-jump-ignores-collisions": {
+      "value": false
+    },
+    "helmod_default_factory_level": {
+      "value": "last"
+    },
+    "helmod_display_size": {
+      "value": "1680x1050"
+    },
+    "helmod_display_size_free": {
+      "value": ""
+    },
+    "helmod_display_main_icon": {
+      "value": true
+    },
+    "helmod_display_location": {
+      "value": "center"
+    },
+    "helmod_display_cell_mod": {
+      "value": "default"
+    },
+    "helmod_display_product_cols": {
+      "value": 5
+    },
+    "helmod_display_ingredient_cols": {
+      "value": 5
+    },
+    "helmod_row_move_step": {
+      "value": 5
+    }
+  }
+}
